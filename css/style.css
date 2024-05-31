@@ -788,3 +788,10 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+.Quote{
+  ont-family: "Poppins", sans-serif;
+    font-size: xxx-large;
+    color: #34495C;
+    text-align: center;
+}
